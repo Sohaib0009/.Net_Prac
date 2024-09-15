@@ -1,0 +1,15 @@
+/workspaces/.Net_Prac/MyDotNetCoreApp/bin/Debug/net8.0/MyDotNetCoreApp
+/workspaces/.Net_Prac/MyDotNetCoreApp/bin/Debug/net8.0/MyDotNetCoreApp.deps.json
+/workspaces/.Net_Prac/MyDotNetCoreApp/bin/Debug/net8.0/MyDotNetCoreApp.runtimeconfig.json
+/workspaces/.Net_Prac/MyDotNetCoreApp/bin/Debug/net8.0/MyDotNetCoreApp.dll
+/workspaces/.Net_Prac/MyDotNetCoreApp/bin/Debug/net8.0/MyDotNetCoreApp.pdb
+/workspaces/.Net_Prac/MyDotNetCoreApp/obj/Debug/net8.0/MyDotNetCoreApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/.Net_Prac/MyDotNetCoreApp/obj/Debug/net8.0/MyDotNetCoreApp.AssemblyInfoInputs.cache
+/workspaces/.Net_Prac/MyDotNetCoreApp/obj/Debug/net8.0/MyDotNetCoreApp.AssemblyInfo.cs
+/workspaces/.Net_Prac/MyDotNetCoreApp/obj/Debug/net8.0/MyDotNetCoreApp.csproj.CoreCompileInputs.cache
+/workspaces/.Net_Prac/MyDotNetCoreApp/obj/Debug/net8.0/MyDotNetCoreApp.sourcelink.json
+/workspaces/.Net_Prac/MyDotNetCoreApp/obj/Debug/net8.0/MyDotNetCoreApp.dll
+/workspaces/.Net_Prac/MyDotNetCoreApp/obj/Debug/net8.0/refint/MyDotNetCoreApp.dll
+/workspaces/.Net_Prac/MyDotNetCoreApp/obj/Debug/net8.0/MyDotNetCoreApp.pdb
+/workspaces/.Net_Prac/MyDotNetCoreApp/obj/Debug/net8.0/MyDotNetCoreApp.genruntimeconfig.cache
+/workspaces/.Net_Prac/MyDotNetCoreApp/obj/Debug/net8.0/ref/MyDotNetCoreApp.dll
